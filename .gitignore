@@ -1,4 +1,4 @@
-/RUNNING_FIRE/Run_Fire/MDK-ARM\Run_Fire/*.o
-/RUNNING_FIRE/Run_Fire/MDK-ARM\Run_Fire/*.d
-/RUNNING_FIRE/Run_Fire/MDK-ARM\Run_Fire/*.htm
-/RUNNING_FIRE/Run_Fire/MDK-ARM\Run_Fire/*.crf
+/MDK-ARM\Run_Fire/*.o
+/MDK-ARM\Run_Fire/*.d
+/MDK-ARM\Run_Fire/*.htm
+/MDK-ARM\Run_Fire/*.crf
